@@ -1,0 +1,2 @@
+engine_size=471cc
+horse_power=47
